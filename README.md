@@ -1,2 +1,2 @@
 # Learn-github
-For learning and project 
+For learning and project of me
